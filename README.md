@@ -13,7 +13,7 @@
 <br />
 <br />
 
-<div align='center'>
+<!-- <div align='center'>
 <a href="https://github.com/daffadmr">
   <img src="https://github-readme-stats.vercel.app/api?username=daffadmr&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
 </a>
@@ -21,7 +21,7 @@
 
 <div align='center'>
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=daffadmr&theme=gotham&hide_border=false' />
-</div>
+</div> -->
 
 <div align='center'>
 <h4 align="center"><strong>My Social Media</strong></h4>
