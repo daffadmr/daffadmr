@@ -9,13 +9,13 @@
 <br />
 <br />
 -->
-
+<!-- 
 <div align='center'>
 <a href="https://github.com/daffadmr">
   <img src="https://github-readme-stats.vercel.app/api?username=daffadmr&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
 </a>
 </div >
-
+ -->
 <!-- <div align='center'>
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=daffadmr&theme=gotham&hide_border=false' />
 </div> -->
