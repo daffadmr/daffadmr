@@ -1,6 +1,6 @@
 <h2 align="center"><strong>Hello 🖐, welcome to my Github profile</strong></h2>
 
-<h4 align="center"><strong>My Tech Stack:</strong></h4>
+<!-- <h4 align="center"><strong>My Tech Stack:</strong></h4>
 
 <div align='center'>
 	<img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' />
@@ -8,14 +8,15 @@
 </div>
 <br />
 <br />
+-->
 
-<!-- <div align='center'>
+<div align='center'>
 <a href="https://github.com/daffadmr">
   <img src="https://github-readme-stats.vercel.app/api?username=daffadmr&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
 </a>
 </div >
 
-<div align='center'>
+<!-- <div align='center'>
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=daffadmr&theme=gotham&hide_border=false' />
 </div> -->
 
