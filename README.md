@@ -21,7 +21,6 @@
 </div> -->
 
 <div align='center'>
-<h4 align="center"><strong>My Social Media</strong></h4>
 	<a href='https://linkedin.com/in/daffadmr/'>
 	<img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' />
 </a>
