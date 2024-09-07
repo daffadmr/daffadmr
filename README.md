@@ -1,4 +1,6 @@
-<h2 align="center"><strong> 🖐 Hello, welcome to my Github profile</strong></h2>
+<h2 align="center"><strong> Hello 🖐 </strong></h2>
+
+👋 Hi, I'm Daffa Damar Ardhika, a frontend developer currently focused on Vue.js, with experience in React as well.
 
 <h4 align="center"><strong>Technologies I use:</strong></h4>
 <div align='center'>
@@ -23,6 +25,7 @@
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=daffadmr&theme=gotham&hide_border=false' />
 </div> -->
 
+<!--
 <div align='center'>
 	<a href='https://linkedin.com/in/daffadmr/'>
 	<img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' />
@@ -31,3 +34,10 @@
 	<img src='https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fdaffadmr' />
 </a>
 </div>
+-->
+
+## How to reach me:
+- Web: [daffadmr](https://daffadmr.vercel.app)
+- LinkedIn: [daffadmr](https://www.linkedin.com/in/daffadmr)
+- Instagram: [@daffadmr](https://instagram.com/daffadmr)
+- Twitter: [@daffadmr](https://twitter.com/daffadmr)
