@@ -13,8 +13,6 @@
 <img src='https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white' />
 </div>
 
-<br />
-
 <!-- 
 <div align='center'>
 <a href="https://github.com/daffadmr">
