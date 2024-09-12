@@ -2,8 +2,6 @@
 
 👋  Hi, I'm Daffa Damar Ardhika, a frontend developer currently focused on Vue.js, with experience in React as well. I enjoy crafting seamless and interactive user experiences and am passionate about using Tailwind CSS for styling and layouting.
 
-<br />
-
 ## Technologies I use:
 <div>
 <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' />
