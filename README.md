@@ -10,7 +10,7 @@
 <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' />
 <img src='https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white' />
 <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D' />
-<img src='https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white' />
+<img src='https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)' />
 </div>
 
 <!-- 
